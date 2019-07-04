@@ -1,0 +1,3 @@
+C:/dev/Modular/Modular/Vendor/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/dev/Modular/Modular/Vendor/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/dev/Modular/Modular/Vendor/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
