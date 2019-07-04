@@ -59,8 +59,9 @@ void GLWidget::paintGL()
 void GLWidget::AddCube(float x)
 {
 	m_Meshes->push_back(m_Renderer->CreateCube(
-		new Modular::Shader("../../Modular/Resources/shaders/Main.vs",
-		"../../Modular/Resources/shaders/Main.fs"), lightPos));
+		new Modular::Shader("Resources/shaders/Main.vs",
+		"Resources/shaders/Main.fs"), lightPos));
+
 	m_Camera->UpdateMeshes(m_Meshes);
 }
 
